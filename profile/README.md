@@ -1,4 +1,4 @@
-![logo-text-to-sofwtare](Screenshot from 2022-12-16 15-12-11.png)
+![logo-text-to-sofwtare](logo.png)
 + [text.to.software - convert one sentence of descripion to working software](https://text.to.software/)
 + [click.to.software - no code, low code solutions](https://click.to.software/)
 + [dsl.to.software - DSL to Software convertion](https://dsl.to.software/)
